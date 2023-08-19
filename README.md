@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 ![
-](https://imgur.com/a/8Mq1Zlc.gif)
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJyeDY0ZGI2MjI5YzMwa2dmcmRjZG5naHBmZGgwaXhhMXFsaTJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zUDZxMSY0NfGcfdXPu/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur
